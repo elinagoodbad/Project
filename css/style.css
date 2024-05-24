@@ -1,0 +1,6 @@
+.sectionBooks {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: center;
+}

@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "bookName": "Harry Potter",
+      "bookAuthor": "Дж.К.Роулинг",
+      "bookImg": "https://m.media-amazon.com/images/I/81ARhEb8KwL._AC_UF894,1000_QL80_.jpg",
+      "bookPrice": "200$",
+      "id": 1
+    },
+    {
+      "bookName": "В метре друг от друга",
+      "bookAuthor": "Микки Дотри, Рейчел Липпинкот, Тобиас Иаконис",
+      "bookImg": "https://avatars.mds.yandex.net/get-kinopoisk-image/1898899/1c5a6548-b394-424f-b1ea-0c0d7316b178/600x900",
+      "bookPrice": "150$",
+      "id": 2
+    },
+    {
+      "bookName": "Гордость и предупреждение",
+      "bookAuthor": "Джейн Остин",
+      "bookImg": "https://static.yakaboo.ua/media/cloudflare/product/webp/600x840/6/7/679_1_1.jpg",
+      "bookPrice": "150$",
+      "id": 3
+    },
+    {
+      "bookName": "Убить пересмешника",
+      "bookAuthor": "Харпер Ли",
+      "bookImg": "https://allbook.by/wp-content/uploads/2018/03/3.jpg",
+      "bookPrice": "190$",
+      "id": 4
+    },
+    {
+      "bookName": "451 по Фаренгейту",
+      "bookAuthor": "Рэй Брэдбери",
+      "bookImg": "https://litres.ru/pub/c/cover/39507162.jpg",
+      "bookPrice": "200$",
+      "id": 5
+    },
+    {
+      "bookName": "Джейн Эйр",
+      "bookAuthor": "Шарлотта Бронте",
+      "bookImg": "https://img3.labirint.ru/rc/8883a6d90115be5b8c95018611d96a68/363x561q80/books62/616667/cover.jpg?1607322457",
+      "bookPrice": "170$",
+      "id": 6
+    },
+    {
+      "bookName": "Приключения Шерлока Холмса",
+      "bookAuthor": "Артур Конан Дойл",
+      "bookImg": "https://bookhouse.kg/media/galleryphoto/2023/4/c3eb62bd-e285-4856-9dcc-4df319c89df2.jpg.600x780_q94.jpg",
+      "bookPrice": "250$",
+      "id": 7
+    },
+    {
+      "bookName": "Чарли и шоколадная фабрика",
+      "bookAuthor": "Роальд Даль",
+      "bookImg": "https://upload.wikimedia.org/wikipedia/ru/thumb/e/e8/CharlieChocolateFactory.jpg/640px-CharlieChocolateFactory.jpg",
+      "bookPrice": "300$",
+      "id": 8
+    },
+    {
+      "bookName": "Алиса в стране чудес и зазеркалье",
+      "bookAuthor": "Льюис Кэрролл",
+      "bookImg": "https://s4-goods.ozstatic.by/1000/756/998/10/10998756_0.jpg",
+      "bookPrice": "300$",
+      "id": 9
+    },
+    {
+      "bookName": "Унесенные призраками",
+      "bookAuthor": "Хаяо Миядзаки",
+      "bookImg": "https://avatars.mds.yandex.net/get-kinopoisk-image/6201401/ae3b699c-3db7-4196-a869-39b610bfe706/600x900",
+      "bookPrice": "180$",
+      "id": 10
+    }
+  ]
+}
